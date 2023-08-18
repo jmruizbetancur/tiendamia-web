@@ -1,0 +1,11 @@
+@import '../../styles/colors.scss';
+
+.sidebar {
+  background-color: $red-theme-color-80;
+  color: $white-color;
+  min-height: 100vh;
+  padding-top: 3rem;
+  position: sticky;
+  top: 0;
+  width: max-content;
+}

@@ -1,0 +1,10 @@
+@import '../../../styles/colors.scss';
+
+.sidebar__item,
+.sidebar__icon {
+  color: $white-color;
+}
+
+.sidebar__item li:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,8 @@
+.detail {
+  margin: .75rem 0;
+
+  & > span {
+    font-weight: 700;
+    margin-right: .5rem;
+  }
+}
